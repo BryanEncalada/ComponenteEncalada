@@ -7,17 +7,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit {
   title = 'Tarea01';
-  value='Bryan';
+  value = 'Bryan';
   edad = 30;
-
-
-constructor(){
-
-}
-
-ngOnInit(): void {
   
-}
+
+
+  constructor() {
+
+  }
+
+  ngOnInit(): void {
+
+  }
 
 }
 
